@@ -72,6 +72,5 @@ const config = {
 - Ensure your code follows the existing style and conventions.
 
 ## Acknowledgements
-Inspired by the classic Simon® electronic game by Milton Bradley.
-Sound effects sourced from freesound.org.
+Inspired by the classic Simon® electronic game.
 Built with vanilla JavaScript, HTML, and CSS for zero-dependency performance.
