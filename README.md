@@ -1,9 +1,5 @@
 # Simon Says Memory Game
 
-![MIT License](https://img.shields.io/badge/license-MIT-blue)  
-![GitHub stars](https://img.shields.io/github/stars/yourusername/simon-says-game?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/yourusername/simon-says-game?style=social)  
-
 A modern, web-based adaptation of the classic Simon Says memory game. Test your memory and cognitive skills by repeating randomized sequences of lights and sounds. Built with HTML, CSS, and JavaScript, this game is designed to be simple, engaging, and responsive across all devices.
 
 ---
@@ -15,7 +11,6 @@ A modern, web-based adaptation of the classic Simon Says memory game. Test your 
 - [Usage](#usage)
 - [Customization](#customization)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ---
