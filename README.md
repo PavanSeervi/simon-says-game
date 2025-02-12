@@ -65,22 +65,13 @@ const config = {
 };
 
 ## Contributing
-We welcome contributions! If you'd like to contribute to this project, please follow these steps:
-
-Fork the repository and create a new branch for your feature or bugfix.
-
-Make your changes and test them thoroughly.
-
-Submit a pull request with a detailed description of your changes.
-
-Ensure your code follows the existing style and conventions.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+1.We welcome contributions! If you'd like to contribute to this project, please follow these steps:
+2. Fork the repository and create a new branch for your feature or bugfix.
+3. Make your changes and test them thoroughly.
+4. Submit a pull request with a detailed description of your changes.
+5.Ensure your code follows the existing style and conventions.
 
 ## Acknowledgements
 Inspired by the classic Simon® electronic game by Milton Bradley.
-
 Sound effects sourced from freesound.org.
-
 Built with vanilla JavaScript, HTML, and CSS for zero-dependency performance.
