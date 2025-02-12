@@ -74,3 +74,4 @@ const config = {
 ## Acknowledgements
 Inspired by the classic Simon® electronic game.
 Built with vanilla JavaScript, HTML, and CSS for zero-dependency performance.
+
