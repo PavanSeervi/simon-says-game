@@ -29,7 +29,7 @@ A modern, web-based adaptation of the classic Simon Says memory game. Test your 
 ## Demo
 Play the game live: [Simon Says Memory Game Demo](https://yourusername.github.io/simon-says-game)  
 
-![Game Screenshot](./screenshot.png)  
+![Game Screenshot](screenshot.png)  
 *Screenshot of the Simon Says Memory Game in action.*
 
 ---
