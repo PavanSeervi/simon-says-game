@@ -42,14 +42,14 @@ To run the game locally, follow these steps:
    git clone https://github.com/yourusername/simon-says-game.git
 
 ## Usage
-1. Start the Game: Click the "Start" button to begin.
-2. Observe the Sequence: Watch and listen carefully as the game displays a sequence of lights and sounds.
-3. Repeat the Sequence: Click the colored buttons in the exact same order.
-4.Progress: Each correct repetition increases the sequence length and your score.
-5. Game Over: If you make a mistake, the game ends, and your final score is displayed. Click "Restart" to try again.
+- **Start the Game**: Click the "Start" button to begin.
+- **Observe the Sequence**: Watch and listen carefully as the game displays a sequence of lights and sounds.
+- **Repeat the Sequence**: Click the colored buttons in the exact same order.
+- **Progress**: Each correct repetition increases the sequence length and your score.
+- **Game Over**: If you make a mistake, the game ends, and your final score is displayed. Click "Restart" to try again.
 
 ## Customization
-You can easily customize the game to suit your preferences by editing the config.js file:
+- **You can easily customize the game to suit your preferences by editing the config.js file**:
 
 const config = {
   sequenceSpeed: 1000, // Time (in milliseconds) between sequence steps
@@ -65,11 +65,11 @@ const config = {
 };
 
 ## Contributing
-1.We welcome contributions! If you'd like to contribute to this project, please follow these steps:
-2. Fork the repository and create a new branch for your feature or bugfix.
-3. Make your changes and test them thoroughly.
-4. Submit a pull request with a detailed description of your changes.
-5.Ensure your code follows the existing style and conventions.
+- We welcome contributions! If you'd like to contribute to this project, please follow these steps:
+- Fork the repository and create a new branch for your feature or bugfix.
+- Make your changes and test them thoroughly.
+- Submit a pull request with a detailed description of your changes.
+- Ensure your code follows the existing style and conventions.
 
 ## Acknowledgements
 Inspired by the classic Simon® electronic game by Milton Bradley.
